@@ -1,0 +1,20 @@
+body {
+    background-color: #D6EAF8;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.assignment {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background-color: #EBF5FB;
+}
+
+.assignment img {
+    width: 200px;
+    padding: 10px;
+}
+
+h1 {
+    color: #1B4F72;
+}
