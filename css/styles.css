@@ -262,6 +262,10 @@ a:not([href]):not([class]), a:not([href]):not([class]):hover {
   text-decoration: none;
 }
 
+.pdf-link {
+  font-weight: 500;
+}
+
 pre,
 code,
 kbd,
